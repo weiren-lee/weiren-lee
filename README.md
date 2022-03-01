@@ -3,7 +3,7 @@
 ### I'm currently a final year student in NTU studyding Electrical and Electronic Engineering with a specialization in Computer Engineering!
 
 
-- 🔭 I’m currently working at [Perx Technologies](https://www.perxtech.com/) as a software engineer intern and also at [AfterClass](https://www.afterclass.io/) as a software engineer
+- 🔭 I’m currently working at [AfterClass](https://www.afterclass.io/) as a software engineer
 - 🌱 My interests lie in web and mobile development and I am looking for more opportunities to expand my knowledge
 - 💬 Currently diving deep into React || Ruby on Rails || Flutter
 - 😄 I love traveling, eating, gardening and playing musical instruments
